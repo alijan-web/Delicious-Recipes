@@ -53,3 +53,8 @@ header {
     margin: 0;
   }
   
+
+  .recipe {
+    text-align: center;
+    justify-content: center;
+  }
